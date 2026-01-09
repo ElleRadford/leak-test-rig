@@ -12,6 +12,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Coining.vi" Type="VI" URL="../../coining-rig/Coining.vi"/>
 		<Item Name="Leak Detector LabView.vi" Type="VI" URL="../Leak Detector LabView.vi"/>
 		<Item Name="Streaming.vi" Type="VI" URL="../Streaming.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
